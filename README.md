@@ -1,7 +1,5 @@
 # 🚀 Lean Software Development
 
-![Lean Banner](https://upload.wikimedia.org/wikipedia/commons/3/3a/Lean_software_development_principles.png)
-
 > **Disciplina:** Metodologias Ágeis  
 > **Instituição:** Yervant Kissajikian  
 > **Grupo:** 5 Lean Software Development  
@@ -23,8 +21,6 @@ Este repositório contém o trabalho desenvolvido para a disciplina **Metodologi
 A metodologia **Lean** nasceu na **Toyota**, no Japão (décadas de 1950–1960), criada por **Taiichi Ohno** e **Eiji Toyoda**.  
 Originalmente parte do **Sistema Toyota de Produção (TPS)**, seus princípios foram adaptados por **Mary e Tom Poppendieck** para o desenvolvimento de software no livro  
 _“Lean Software Development: An Agile Toolkit” (2003)_ — um marco na história das metodologias ágeis.
-
-![Lean Thinking](https://upload.wikimedia.org/wikipedia/commons/5/50/Toyota_Production_System.svg)
 
 ---
 
@@ -64,8 +60,6 @@ Ele pode ser aplicado em qualquer organização que deseje **agilidade real**.
 | ⏱️ **Just-in-Time** | Entregas no momento certo |
 | 📊 **Métricas de Fluxo** | Lead Time, Throughput e WIP |
 
-![Kanban Example](https://upload.wikimedia.org/wikipedia/commons/6/6b/Simple-kanban-board-.jpg)
-
 ---
 
 ## ⚖️ Análise Crítica
@@ -98,7 +92,6 @@ Com a adoção do **Lean**, foram aplicadas práticas como:
 > “O Lean transformou a maneira como a equipe via o processo —  
 > de tarefas isoladas para um fluxo contínuo de valor.”  
 
-![Lean Flow](https://upload.wikimedia.org/wikipedia/commons/0/08/Lean_principles.png)
 
 ---
 
